@@ -1,0 +1,49 @@
+
+
+.txt{
+  
+  margin: 0 10% 0 10%;
+  background-color:rgba(255, 255, 240, 0.726);
+  opacity:0.85;
+  filter:alpha(opacity=70);
+}
+.txt p{
+  font-weight:bold;
+  color:#000000;
+  letter-spacing:2px;
+  line-height:170%;
+  font-size:110%;
+  margin: 0 5% 0 5%;
+}
+.txt p1{
+  color:#000000;
+  letter-spacing:3px;
+  line-height:200%;
+  font-size:18px;
+  
+}
+.txt h1{
+  color:#ec15da;
+  font-weight:bold;
+  letter-spacing:3px;
+  line-height:200%;
+  text-indent:2%;
+  font-size:30px;
+}
+.txt h2{
+  color:#000000;
+  font-weight:bold;
+  letter-spacing:3px;
+  line-height:150%;
+  text-indent:80%;
+  font-size:23px;
+}
+a {
+  font-weight:bold;
+  color:#ED5A65;
+  letter-spacing:2px;
+  line-height:170%;
+  font-size:110%;
+  margin: 0 5% 0 5%;
+  text-indent:2em;
+}
